@@ -10,7 +10,7 @@
 3. `Train_N_Agent` : It is a model that learns about n charts. I brought several charts using utils.py - get_file_path. After that, it is not much different from TrainAgent.py . 
 4. `Evaluate_N_Agent` : Train_N_Agent.py, run the models for each chart pre-trained in the test data. Since n models act on one test chart, they return the average action, average reward, and variance for each ㅁ date to the csv file. The csv file returns the average value of each of the n agents, so you can check the action and reward of each of the N_agent by entering the plots/ticker. 
 
-## How to Run (![enter image description here](https://ibb.co/fMSRgBv)2 methods)
+## How to Run (2 methods)
 |Train_1Agent -> | Evaluate_1Agent |
 |--|--|
 |  **Train_N_Agent ->**|  **Evaluate_N_Agent**|
