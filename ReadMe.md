@@ -66,5 +66,8 @@ https://github.com/philtabor/Youtube-Code-Repository/tree/master/ReinforcementLe
 2. one of the Action history for 1 stock in N agent models
 ![agent3_ActionGraph](https://github.com/Sigma-Flip/StockTrading_SoftActorCritic_KR_EN/assets/138303561/d7036067-6991-4018-80a3-729bf048a275)
 
+3. one of the Reward history for 1 stock in N agent models
+![agent4_RewardGraph](https://github.com/Sigma-Flip/StockTrading_SoftActorCritic_KR_EN/assets/138303561/0cb34734-ea2b-4ed2-beea-b17cbc694fe2)
+
 
 
