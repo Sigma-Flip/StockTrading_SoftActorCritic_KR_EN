@@ -60,7 +60,7 @@ https://github.com/philtabor/Youtube-Code-Repository/tree/master/ReinforcementLe
 
 
 ## Plots
-1. Model Score for 1 agent
+1. Training Model
 ![StockTrade](https://github.com/Sigma-Flip/StockTrading_SoftActorCritic_KR_EN/assets/138303561/c7f39e6e-3aed-4950-9ec1-4d5d98848517)
 
 2. one of the Action history for 1 stock in N agent models
