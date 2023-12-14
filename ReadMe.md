@@ -59,5 +59,12 @@ https://github.com/philtabor/Youtube-Code-Repository/tree/master/ReinforcementLe
 5. `utils` : 시각화, 랜덤추출등의 코드
 
 
+## Plots
+1. Model Score for 1 agent
+![StockTrade](https://github.com/Sigma-Flip/StockTrading_SoftActorCritic_KR_EN/assets/138303561/c7f39e6e-3aed-4950-9ec1-4d5d98848517)
+
+2. one of the Action history for 1 stock in N agent models
+![agent3_ActionGraph](https://github.com/Sigma-Flip/StockTrading_SoftActorCritic_KR_EN/assets/138303561/d7036067-6991-4018-80a3-729bf048a275)
+
 
 
