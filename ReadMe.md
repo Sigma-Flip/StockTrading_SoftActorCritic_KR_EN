@@ -30,10 +30,9 @@
 
 
 
-### Reference - These two repositories helped me greatly. 
-**1. Model 
-https://github.com/philtabor/Youtube-Code-Repository/tree/master/ReinforcementLearning/PolicyGradient/SAC
-3.  Env https://github.com/openai/gym/blob/master/gym/envs/classic_control/continuous_mountain_car.py**
+### Reference - These repositories helped me greatly. 
+**1.Env 
+https://github.com/openai/gym/blob/master/gym/envs/classic_control/continuous_mountain_car.py**
 
 # Korean
 
